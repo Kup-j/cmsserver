@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class SetmealServiceImpl  implements SetmealService {
+public class  SetmealServiceImpl  implements SetmealService {
     @Autowired
     private SetmealMapper setmealMapper;
 
